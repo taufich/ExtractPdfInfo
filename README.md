@@ -19,6 +19,7 @@ A powerful and user-friendly web application built with **Streamlit** for parsin
   - Courses (with highlights)
   - Credit Distribution
   - Averages
+https://drive.google.com/file/u/0/d/1Oy2QV8SCAPWxOXSKGotBrc_2oP_LtV34/view?pli=1
 
 ---
 
